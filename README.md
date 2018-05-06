@@ -164,7 +164,6 @@ touch css/index.css # 在css目录下创建idnex.css文件
 
 # rm 删除一个文件获取文件夹
 rm index.html # 删除index.html文件
-rm js         # 删除空的js文件夹
 rm -r css     # 递归删除一个文件夹
 
 # mv 移动文件（move）
